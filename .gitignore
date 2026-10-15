@@ -1,0 +1,9 @@
+# Obsidian workspace state (user-specific local layout)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
